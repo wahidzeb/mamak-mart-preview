@@ -1,0 +1,42 @@
+{
+  "id": "/mamak-mart-preview/",
+  "name": "Mamak Mart",
+  "short_name": "Mamak Mart",
+  "description": "Mamak Mart by Zaib: walk around your own 3D Malaysian mamak shop with one thumb. Make teh tarik, roti canai and nasi lemak, carry piles of food to hungry customers, collect coins and grow your shop with new tables, new food and helpers. Survive the breakfast rush and the after-Maghrib rush! Free and kid friendly.",
+  "lang": "en",
+  "start_url": "/mamak-mart-preview/?source=pwa",
+  "scope": "/mamak-mart-preview/",
+  "display": "standalone",
+  "orientation": "any",
+  "theme_color": "#b3261e",
+  "background_color": "#b3261e",
+  "categories": [
+    "games"
+  ],
+  "icons": [
+    {
+      "src": "/mamak-mart-preview/icons/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/mamak-mart-preview/icons/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/mamak-mart-preview/icons/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "maskable"
+    },
+    {
+      "src": "/mamak-mart-preview/icons/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}
